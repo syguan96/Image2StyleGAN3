@@ -14,9 +14,8 @@ bash inverse.sh
 ```
 
 ## Results
-![Input](https://imgtu.com/i/5O0Fgg)
-![MSE](https://imgtu.com/i/5O0SEt)
-![MSE+LPIPS](https://imgtu.com/i/5OwoAx)
+![Input](https://github.com/syguan96/Image2StyleGAN3/blob/main/assets/images/seed0003.png)
+![MSE+LPIPS](https://github.com/syguan96/Image2StyleGAN3/blob/main/out/seed0003.png)
 
 ## TODO
 - [] Image Editting
