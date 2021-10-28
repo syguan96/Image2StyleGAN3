@@ -23,6 +23,6 @@ Inversed Image
 ![MSE+LPIPS](https://github.com/syguan96/Image2StyleGAN3/blob/main/out/seed0003.png)
 
 ## TODO
-- [] Image Editting
-- [] GUI
+- [ ] Image Editting
+- [ ] GUI
 
